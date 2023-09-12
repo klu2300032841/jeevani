@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.one{
+    color:aqua;
+    background-color: black;
+}
+.two{
+    color:black;
+    background-color:azure;
+}
+.three{
+    color:azure;
+    background-color: blueviolet;
+}
+.four{
+    color:brown;
+    background-color: aqua;
+}
+.jeev{
+    height:25vh;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid white;
+}
